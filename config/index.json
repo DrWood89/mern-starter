@@ -1,6 +1,6 @@
 {
-    "dbUri": "mongodb://server-account:VM$ervice@ds157559.mlab.com:57559/heroku_csz818jd",
-    "jwtSecret": "bumrush to inifinity696969",
-    "FB_ID": "215024398970477",
-    "FB_Secret": "f4d5ff98b6fb47969015b1856496d09d"
+    "dbUri": "mongodb://CONNECTIONSTRING,
+    "jwtSecret": "JWTSECRET",
+    "FB_ID": "FACEBOOKID",
+    "FB_Secret": "FACEBOOKSECRET"
 }
